@@ -1,0 +1,41 @@
+# Arquivos do ambiente virtual gerado pelo Poetry
+# Apenas necessário se você estiver usando o modo de instalação no projeto
+.venv/
+
+# Configurações específicas do Poetry
+poetry.lock
+
+# Python
+*.py[cod]
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyd
+
+# Configurações do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Configurações de IDEs e Editores
+# VS Code
+.vscode/
+# PyCharm
+.idea/
+*.iml
+# Outros editores
+*.swp
+*.swo
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+.DS_Store
+Thumbs.db
